@@ -7,7 +7,7 @@ import Dropdown from "../_components/dropdown/Dropdown"
 import Cards from "../_components/cards/cards"
 import Pagination from "../_components/pagination/pagination"
 import Progressbar from "../_components/progressbar/progressbar"
-import Typography from "../_components/typography/Typography"
+import Typography from "../_components/typography/typography"
 import Tabs from "../_components/tabs/tabs"
 import {img,img1,img2,img3,img4} from "../_components/imagepath"
 import Header from '../layouts/Header'
